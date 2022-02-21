@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahak Mishra.
 - 👀 I’m interested in backend coding.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking for a fresher job.
+- 💞️ I’m working with Zensar Technologies.
 - 📫 contact: contactmahakm@gmail.com
 
 <!---
